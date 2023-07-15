@@ -1,5 +1,5 @@
 # intelunnati_Trailblazers
-PROBLEM STATEMENT-Fake news detection using python and machine learning
+[1]PROBLEM STATEMENT-Fake news detection using python and machine learning
 TEAM NAME- Trailblazers
 INSTITUTION NAME- Rajalakshmi Institute of Technology
 TEAM SIZE-3
