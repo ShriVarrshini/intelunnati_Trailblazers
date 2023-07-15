@@ -1,6 +1,8 @@
 # intelunnati_Trailblazers
 PROBLEM STATEMENT-Fake news detection using python and machine learning
 
+MODEL USED FOR TRAINING- Support Vector Machine(SVM)
+
 
 TEAM NAME- Trailblazers
 
